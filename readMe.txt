@@ -1,1 +1,2 @@
-la trung ne
+la Trung ne
+lai la Trung
