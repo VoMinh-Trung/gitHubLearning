@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("\nhello world");
-    printf("chinh tu tren web");
+    for(int i =0; i < 100; i++){
+        printf("\nHOANG - NGOC ANH");
+    }
 }
