@@ -2,4 +2,5 @@
 
 int main(){
   printf("hello TRUNG"); 
+  printf("\nfrom PC");
 }
